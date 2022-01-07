@@ -52,6 +52,7 @@ body {
 .card__title {
     cursor: pointer;
     font-weight: 600;
+    font-size: 14px;
     color: hsl(0, 0%, 100%);
 }
 
