@@ -6,7 +6,7 @@ body {
 .card {
     width: 270px;
     height: 520px;
-    margin: 60px auto;
+    margin: 40px auto 0 auto;
     border-radius: 12px;
     background-color: hsl(216, 50%, 16%);
     box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
